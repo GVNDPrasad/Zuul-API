@@ -20,7 +20,7 @@ public class ZuulApiApplication {
 		log.info("INFO mode @ Started Zuul API Gateway :: By default logger is INFO");
 		log.warn("WARN mode @ Started Zuul API Gateway");
 		log.error("ERROR mode @ Started Zuul API Gateway");
-		System.out.println("ZuulApiApplication :: main() ::: Started Zuul API Gateway");
+		System.out.println("ZuulApiGatewayApplication :: main() ::: Started Zuul API Gateway");
 	}
 
 }
